@@ -1,0 +1,65 @@
+The standard product line in all brands have generated the high revenue compared to other lines
+
+-----------------------------------------------
+Solex brand is most purchased and second highest purchases are from WeareA2B. The least purchases are from Norco Bicycles and Trek bicycles are not too far from last.
+
+=--------------------------------------------------------
+The product size which is in high demand is Medium
+------------------------------------------------------
+Highest transactions were done on 2017-02-14 on the occasion of valentines day and on 2017-08-18
+----------------------------------------------------------
+Giant Bicycles has highest sales in the months of May, August, December. This pattern is observed to be as high sales occur in end of seasons.
+
+    (August - Winter end)
+    (December - Spring end)
+    (May - autumn end)
+
+--------------------------------------------
+Norco Bicycles has highest sales in months April, October, December.
+
+-----------------------------------------------
+OHM Cycles has highest sales in the month JULY and AUGUST
+---------------------------------------------------------------------
+Solex have highest sales in october and november.----
+-------------------------------------------------------------
+Most purchases are being happened in mid 10 days of the month
+----------------------------------------------------------------
+less number of online orders are recorded on 31st of every month
+and 
+highest online order are on 15th (15 day pay check pay check)
+------------------------------------------------------------
+The online orders are more than offline orders
+
+---------------------------------------------------------------
+1.   Manufacturing people have done more transactions and generated more revenue about 7.7 million dollars.
+2.   Financial people com seconf with 4.2 million dollars
+3.   The Least interested group are from Telecommunications
+----------------------------------------------------------------
+Solex has been most preferred by all the age groups.
+------------------------------------------------------------
+Most Valuable and successful are the years 2003-2007 and also have generated most highest revenue for Sprocket central
+-----------------------------------------------------------------
+The middle aged people are the highest buyers of cycles than any other age group.
+----------------------------------------------------------------
+Sprocket central has most of middle aged customers (30-40)
+------
+The middle aged people are more inclined towards standard (product_line)
+-------
+Medium product_size is more famous and has high sales 
+--------
+NSW has the highest sales for cycles
+-------------
+
+
+    Queensland has the highest mean for list price
+
+    NSW has generated highest revenue of 11 million dollars
+
+---------------
+
+    There are most of property valuation 8 customers shop at sprocket central.
+    Property valuation 2 customers buy items worth high money compared to others.
+    High concentration towards property valuation 8 and 9 customers.
+
+-------------
+Female bought more cycles than men on valentines day
